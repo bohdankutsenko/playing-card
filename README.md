@@ -1,6 +1,6 @@
 # Card game by ReactJS, created by create-react-app
 <div align="center">
-<a href="https://yeahch.github.io/playing-card" target="_blank"><img src="./public/card-game.png" alt="screenshot" /></a>
+<a href="https://bohdankutsenko.github.io/playing-card" target="_blank"><img src="./public/card-game.png" alt="screenshot" /></a>
 </div>
 
 ## Installation

@@ -114,7 +114,7 @@ const Game60K = ({
           </h1>
 
           <div className="d-flex">
-            <a href="https://github.com/yeahCH/playing-card" target="_blank" className="mr-4"><img src={githubIcon} /></a>
+            <a href="https://github.com/bohdankutsenko/playing-card" target="_blank" className="mr-4"><img src={githubIcon} /></a>
 
             <Button variant="warning" onClick={() => onClickRestart()}>New Game</Button>
           </div>

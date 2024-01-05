@@ -2,7 +2,7 @@
   "name": "playing-card",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://yeahch.github.io/playing-card",
+  "homepage": "http://bohdankutsenko.github.io/playing-card",
   "dependencies": {
     "axios": "^0.21.1",
     "bootstrap": "^4.5.0",
